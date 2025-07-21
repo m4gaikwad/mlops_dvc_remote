@@ -1,6 +1,9 @@
 # Untrack data, models, report
 data
-models
+data/raw
+data/interim
+data/processed
+model
 reports
 
 
