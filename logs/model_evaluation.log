@@ -1,0 +1,5 @@
+2025-07-16 10:09:58,089 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-16 10:09:58,213 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-16 10:09:58,264 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-16 10:09:58,272 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.934605 , precision : 0.828125, recall : 0.679487, auc: 0.828103
+2025-07-16 10:09:58,302 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
