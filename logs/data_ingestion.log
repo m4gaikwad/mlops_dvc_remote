@@ -10,3 +10,19 @@
 2025-07-21 07:32:33,495 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv -
 2025-07-21 07:32:33,496 - data_ingestion - DEBUG - Data Preproccesing Completed -
 2025-07-21 07:32:33,517 - data_ingestion - DEBUG - Train and Test data saved: ./data/raw -
+2025-07-21 07:33:13,710 - data_ingestion - DEBUG - Parameters retrieved from params.yaml -
+2025-07-21 07:33:13,955 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv -
+2025-07-21 07:33:13,956 - data_ingestion - DEBUG - Data Preproccesing Completed -
+2025-07-21 07:33:13,976 - data_ingestion - DEBUG - Train and Test data saved: ./data/raw -
+2025-07-21 07:34:27,473 - data_ingestion - DEBUG - Parameters retrieved from params.yaml -
+2025-07-21 07:34:27,728 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv -
+2025-07-21 07:34:27,729 - data_ingestion - DEBUG - Data Preproccesing Completed -
+2025-07-21 07:34:27,752 - data_ingestion - DEBUG - Train and Test data saved: ./data/raw -
+2025-07-21 07:53:36,371 - data_ingestion - DEBUG - Parameters retrieved from params.yaml -
+2025-07-21 07:53:37,021 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv -
+2025-07-21 07:53:37,025 - data_ingestion - DEBUG - Data Preproccesing Completed -
+2025-07-21 07:53:37,066 - data_ingestion - DEBUG - Train and Test data saved: ./data/raw -
+2025-07-21 08:00:55,431 - data_ingestion - DEBUG - Parameters retrieved from params.yaml -
+2025-07-21 08:00:56,263 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv -
+2025-07-21 08:00:56,265 - data_ingestion - DEBUG - Data Preproccesing Completed -
+2025-07-21 08:00:56,425 - data_ingestion - DEBUG - Train and Test data saved: ./data/raw -

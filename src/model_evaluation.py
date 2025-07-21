@@ -8,7 +8,7 @@ import json
 from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_auc_score
 import logging
 import yaml
-#from dvclive import Live
+from dvclive import Live
 
 #Logs directory
 log_dir = "logs"
@@ -128,14 +128,13 @@ def main():
             
             
             
-        '''        
+        # Experiment Tracking Uisng DVClive       
         with Live(save_dvc_exp=True) as live:
-            live.log_metric('accuracy', accuracy_score(y_test,y_pred))
-            live.log_metric('precision', precision_score(y_test,y_pred))
-            live.log_metric('recall',recall_score(y_test,y_pred))
-            
+            live.log_metric('accuracy', accuracy_score(y_test,y_test))
+            live.log_metric('precision', precision_score(y_test,y_test))
+            live.log_metric('recall',recall_score(y_test,y_test))
             live.log_params(params)
-        '''        
+              
         save_metrics(metrics,'reports/metrics.json')
     except Exception as e:
         logger.error('Unexpected error : %s',e)

@@ -3,3 +3,28 @@
 2025-07-16 10:09:58,264 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
 2025-07-16 10:09:58,272 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.934605 , precision : 0.828125, recall : 0.679487, auc: 0.828103
 2025-07-16 10:09:58,302 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
+2025-07-21 07:37:41,991 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-21 07:37:42,056 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-21 07:37:42,062 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-21 07:37:42,073 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.934605 , precision : 0.828125, recall : 0.679487, auc: 0.828103
+2025-07-21 07:37:42,075 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
+2025-07-21 07:38:04,784 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-21 07:38:04,847 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-21 07:38:04,860 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-21 07:38:04,867 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.934605 , precision : 0.828125, recall : 0.679487, auc: 0.828103
+2025-07-21 07:38:04,873 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
+2025-07-21 07:53:51,318 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-21 07:53:51,423 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-21 07:53:51,457 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-21 07:53:51,467 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.947464 , precision : 0.839286, recall : 0.701493, auc: 0.841468
+2025-07-21 07:53:53,163 - model_evaluation - ERROR - Unexpected error : name 'y_pred' is not defined
+2025-07-21 07:59:36,180 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-21 07:57:59,814 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-21 07:57:59,819 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-21 07:57:59,829 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.947464 , precision : 0.839286, recall : 0.701493, auc: 0.841468
+2025-07-21 07:58:01,704 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
+2025-07-21 08:01:16,056 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-07-21 08:01:16,281 - model_evaluation - DEBUG - Model loaded from ./model/model.pkl
+2025-07-21 08:01:16,318 - model_evaluation - DEBUG - Test Data Loaded from ./data/processed/test_tfidf.csv
+2025-07-21 08:01:16,328 - model_evaluation - DEBUG - Model Evaluation are accuracy: 0.967509 , precision : 0.913043, recall : 0.750000, auc: 0.870984
+2025-07-21 08:01:19,117 - model_evaluation - DEBUG - Metrics save to reports/metrics.json
