@@ -1,8 +1,9 @@
-# Untrack data, models, report
+\# Untrack data, models, report
 data
 data/raw
 data/interim
 data/processed
+models
 model
 reports
 
